@@ -8,5 +8,5 @@ def countdown (number)
 end
 
 def countdown_with_sleep
-  sleep(6.seconds)
+  sleep(5.seconds)
 end
